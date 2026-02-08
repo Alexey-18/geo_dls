@@ -76,7 +76,7 @@ def combined_loss(pred, target):
 ## 📁 Структура проекта
 
 ```
-satellite-building-area/
+geo_dls/
 ├── README.md                    # Этот файл
 ├── requirements.txt             # Зависимости проекта
 ├── app.py                       # Streamlit приложение
